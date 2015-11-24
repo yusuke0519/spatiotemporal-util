@@ -3,9 +3,7 @@
 
 # ディレクトリ構成
 - labeling
-  - program
-    - wrapper.py
-    - 
+  - check.py
   - data
     - correct
     - manual
