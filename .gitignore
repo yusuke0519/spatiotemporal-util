@@ -59,7 +59,3 @@ target/
 # Movie
 *.MP4
 *.mp4
-
-# txtファイル
-*.txt
-*.csv
